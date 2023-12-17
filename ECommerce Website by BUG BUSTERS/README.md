@@ -4,8 +4,7 @@
  
  
 ### Home page
-![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
-
+![1]:(https://Users\AKASH\OneDrive\Desktop\ECommerce Website by BUG BUSTERS\img.png)
 
 
 ### Content Description page
